@@ -7,7 +7,8 @@ Ingredients:
  - 1 teaspoon salt
  - 2 eggs
  - 1 cup milk
- - 1/2 cup canola oil
+ - 3/4 cup canola oil
+>>>>>>> 037fd6424bbea66f1c6ac3c5c27ac588ec730ff4
  - 2 teaspoons vanilla extract
  - 1 cup boiling water
 
